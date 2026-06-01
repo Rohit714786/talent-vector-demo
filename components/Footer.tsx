@@ -45,7 +45,7 @@ export function Footer() {
       <div className="section-container">
         <div className="grid gap-12 lg:grid-cols-6">
           <div className="lg:col-span-2">
-            <Logo variant="light" />
+            <Logo height={36} />
             <p className="mt-4 max-w-xs text-sm leading-relaxed">
               Talent Vector helps organizations build a living, validated talent inventory—so every
               hire, development, and retention decision is backed by data.
