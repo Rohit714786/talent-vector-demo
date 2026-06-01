@@ -1,0 +1,10 @@
+{
+  "name": "Talent Vector",
+  "short_name": "Talent Vector",
+  "description": "Stop guessing. Start knowing your talent.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#2563eb",
+  "lang": "en"
+}
